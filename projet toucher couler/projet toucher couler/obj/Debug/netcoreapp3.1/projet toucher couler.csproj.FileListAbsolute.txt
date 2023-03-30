@@ -1,0 +1,14 @@
+C:\Users\200460.asty-moulin\source\repos\projet toucher couler\projet toucher couler\bin\Debug\netcoreapp3.1\projet toucher couler.exe
+C:\Users\200460.asty-moulin\source\repos\projet toucher couler\projet toucher couler\bin\Debug\netcoreapp3.1\projet toucher couler.deps.json
+C:\Users\200460.asty-moulin\source\repos\projet toucher couler\projet toucher couler\bin\Debug\netcoreapp3.1\projet toucher couler.runtimeconfig.json
+C:\Users\200460.asty-moulin\source\repos\projet toucher couler\projet toucher couler\bin\Debug\netcoreapp3.1\projet toucher couler.runtimeconfig.dev.json
+C:\Users\200460.asty-moulin\source\repos\projet toucher couler\projet toucher couler\bin\Debug\netcoreapp3.1\projet toucher couler.dll
+C:\Users\200460.asty-moulin\source\repos\projet toucher couler\projet toucher couler\bin\Debug\netcoreapp3.1\projet toucher couler.pdb
+C:\Users\200460.asty-moulin\source\repos\projet toucher couler\projet toucher couler\obj\Debug\netcoreapp3.1\projet toucher couler.csproj.AssemblyReference.cache
+C:\Users\200460.asty-moulin\source\repos\projet toucher couler\projet toucher couler\obj\Debug\netcoreapp3.1\projet toucher couler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\200460.asty-moulin\source\repos\projet toucher couler\projet toucher couler\obj\Debug\netcoreapp3.1\projet toucher couler.AssemblyInfoInputs.cache
+C:\Users\200460.asty-moulin\source\repos\projet toucher couler\projet toucher couler\obj\Debug\netcoreapp3.1\projet toucher couler.AssemblyInfo.cs
+C:\Users\200460.asty-moulin\source\repos\projet toucher couler\projet toucher couler\obj\Debug\netcoreapp3.1\projet toucher couler.csproj.CoreCompileInputs.cache
+C:\Users\200460.asty-moulin\source\repos\projet toucher couler\projet toucher couler\obj\Debug\netcoreapp3.1\projet toucher couler.dll
+C:\Users\200460.asty-moulin\source\repos\projet toucher couler\projet toucher couler\obj\Debug\netcoreapp3.1\projet toucher couler.pdb
+C:\Users\200460.asty-moulin\source\repos\projet toucher couler\projet toucher couler\obj\Debug\netcoreapp3.1\projet toucher couler.genruntimeconfig.cache
